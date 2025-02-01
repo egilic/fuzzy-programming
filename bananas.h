@@ -5,7 +5,7 @@
 
 class bananas {
 public:
-    int minEatingSpeed(std::vector<int>& piles, int h);
+    int min_eating_speed(std::vector<int>& piles, int h);
 };
 
 #endif
